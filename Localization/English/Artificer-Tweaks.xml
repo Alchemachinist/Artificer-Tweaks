@@ -2,7 +2,17 @@
 <contentList>
 	<content contentuid="ha1a5c742gbeacg4513ga108g02ed9057607a" version="1">A ceramic jug that can produce a chosen liquid of your choice</content>  
 	<content contentuid="h1d0e31f2gcb89g4647g8ab9gad38cd399055" version="1">Alchemy Jug</content>
+
     <content contentuid="hd69d214cg6b37g4e0ega3ddg2ef6ea2f1d40" version="1">Produce 2 vials of acid</content>
-    <content contentuid="h6388a0b8gd651g47fcg84c1g35c5a2cf3528" version="1">Vials of Acid</content>
+    <content contentuid="h6388a0b8gd651g47fcg84c1g35c5a2cf3528" version="1">Acid</content>
+
+    <content contentuid="h58010ba4g490fg43f5g9dfegfcfcfe1677d5" version="1">Produce 8 pitches of beer</content>
+    <content contentuid="hbbe74ae5g6871g4b79g84fagcaa1c3938b55" version="1">Beer</content>
+
+    <content contentuid="h67c545e0g8a4fg4464ga4e1g1252c471220a" version="1">Produce 1 bottle of poison</content>
+    <content contentuid="h083b17a3ga85ag47e1g984bg2ce2b1703ff7" version="1">Basic Poison</content>
+    
+    <content contentuid="hbb0e2d93gef9dg4d7ag8299g2859879dca6e" version="1">Produce 4 bottles of water</content>
+    <content contentuid="h5545f5a4gd113g49e7g9443gce76b6d62aae" version="1">Water</content>
 </contentList>
 
