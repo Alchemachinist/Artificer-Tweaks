@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="ha1a5c742gbeacg4513ga108g02ed9057607a" version="1">A ceramic jug that can produce a chosen liquid of your choice</content>  
-	<content contentuid="h1d0e31f2gcb89g4647g8ab9gad38cd399055" version="1">Alchemy Jug</content> 
+	<content contentuid="h1d0e31f2gcb89g4647g8ab9gad38cd399055" version="1">Alchemy Jug</content>
+    <content contentuid="hd69d214cg6b37g4e0ega3ddg2ef6ea2f1d40" version="1">Produce 2 vials of acid</content>
+    <content contentuid="h6388a0b8gd651g47fcg84c1g35c5a2cf3528" version="1">Vials of Acid</content>
 </contentList>
 
