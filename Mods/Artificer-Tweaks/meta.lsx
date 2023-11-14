@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-  <version major="1" minor="0" revision="0" build="0" />
-  <region id="Config">
-	<node id="root">
-		<children>
-			<node id="Dependencies"/>
-				<node id="ModuleInfo">
+	<version major="4" minor="0" revision="6" build="5" />
+    <region id="Config">
+        <node id="root">
+            <children>
+                <node id="Dependencies"/>
+                <node id="ModuleInfo">
                     <attribute id="Author" type="LSWString" value="Alchemachinist"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSWString" value="My tweaks of the Artificer mod by Lykon"/>
-                    <attribute id="Folder" type="LSWString" value="Artificer-Tweaks"/>
+                    <attribute id="Folder" type="LSWString" value="Artificer-Tweaks"/> 
                     <attribute id="GMTemplate" type="FixedString" value=""/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value=""/>
+                    <attribute id="MD5" type="LSWString" value=""/>
                     <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="FixedString" value="Artificer-Tweaks"/>
+                    <attribute id="Name" type="FixedString" value="Artificer-Tweaks"/> 
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="Tags" type="LSWString" value=""/>
                     <attribute id="Type" type="FixedString" value="Add-on"/>
-                    <attribute id="UUID" type="FixedString" value="10a76f6b-65f6-4bb3-a40b-db029ab0c6f6"/>
-					<attribute id="Version64" type="int64" value="144115196665790673"/>
+					<attribute id="UUID" type="FixedString" value="10a76f6b-65f6-4bb3-a40b-db029ab0c6f6"/> 
+					<attribute id="Version64" type="int64" value="36169534507319296"/>
                     <children>
                         <node id="PublishVersion">
-							<attribute id="Version64" type="int64" value="144115196665790673"/>
+                            <attribute id="Version64" type="int64" value="36169534507319296"/>
                         </node>
                         <node id="Scripts"/>
                         <node id="TargetModes">
